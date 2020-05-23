@@ -1,3 +1,3 @@
-pip MCDReforged.py
+python MCDReforged.py
 pu.bat
 pause

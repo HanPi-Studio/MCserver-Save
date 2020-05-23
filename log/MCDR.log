@@ -1,10 +1,13 @@
-[MCDR] [2020-05-23 14:35:14] [MainThread/INFO]: 语言已设置为 zh_cn
-[MCDR] [2020-05-23 14:35:14] [MainThread/INFO]: 解析器已设置为 vanilla_parser
-[MCDR] [2020-05-23 14:35:14] [MainThread/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
-[MCDR] [2020-05-23 14:35:14] [MainThread/INFO]: 加载插件中
-[MCDR] [2020-05-23 14:35:14] [MainThread/INFO]: 无插件变更; 已加载插件总数: §70§r
-[MCDR] [2020-05-23 14:35:14] [MainThread/INFO]: 正在启动服务端，启动参数为 "java -Xms1G -Xmx2G -jar fabric-server-launch.jar nogui"
-[MCDR] [2020-05-23 14:35:14] [MainThread/INFO]: 服务端正在以 PID 8628 运行中
-[MCDR] [2020-05-23 14:35:15] [CheckUpdate/INFO]: MCDR 已为最新版
-[MCDR] [2020-05-23 14:36:48] [MainThread/INFO]: MCDR 已被用户终止
-[MCDR] [2020-05-23 14:36:48] [MainThread/INFO]: bye
+[MCDR] [2020-05-23 14:38:14] [MainThread/INFO]: 语言已设置为 zh_cn
+[MCDR] [2020-05-23 14:38:14] [MainThread/INFO]: 解析器已设置为 vanilla_parser
+[MCDR] [2020-05-23 14:38:14] [MainThread/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
+[MCDR] [2020-05-23 14:38:14] [MainThread/INFO]: 加载插件中
+[MCDR] [2020-05-23 14:38:14] [MainThread/INFO]: 无插件变更; 已加载插件总数: §70§r
+[MCDR] [2020-05-23 14:38:14] [MainThread/INFO]: 正在启动服务端，启动参数为 "java -Xms1G -Xmx2G -jar fabric-server-launch.jar nogui"
+[MCDR] [2020-05-23 14:38:14] [MainThread/INFO]: 服务端正在以 PID 15520 运行中
+[MCDR] [2020-05-23 14:38:15] [CheckUpdate/INFO]: MCDR 已为最新版
+[MCDR] [2020-05-23 14:41:13] [MainThread/INFO]: 等待服务端进程停止
+[MCDR] [2020-05-23 14:41:13] [MainThread/INFO]: 服务端进程返回代码: 0
+[MCDR] [2020-05-23 14:41:13] [MainThread/INFO]: 服务端自行关闭
+[MCDR] [2020-05-23 14:41:13] [MainThread/INFO]: 服务端已关闭
+[MCDR] [2020-05-23 14:41:13] [MainThread/INFO]: bye
