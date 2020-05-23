@@ -1,32 +1,71 @@
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 语言已设置为 zh_cn
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 解析器已设置为 vanilla_parser
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 加载插件中
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 插件 BlhClient.py 已加载
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 插件 QuickBackupM.py 已加载
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 已加载: §72§r 个插件; 已加载插件总数: §72§r
-[MCDR] [2020-05-23 15:31:10] [PT0-on_load@BlhClient/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
-[MCDR] [2020-05-23 15:31:10] [PT0-on_load@BlhClient/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 正在启动服务端，启动参数为 "java -Xms1G -Xmx2G -jar fabric-server-launch.jar nogui"
-[MCDR] [2020-05-23 15:31:10] [PT0-on_load@BlhClient/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
-[MCDR] [2020-05-23 15:31:10] [PT0-on_load@BlhClient/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
-[MCDR] [2020-05-23 15:31:10] [PT0-on_load@BlhClient/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
-[MCDR] [2020-05-23 15:31:10] [MainThread/INFO]: 服务端正在以 PID 1684 运行中
-[MCDR] [2020-05-23 15:31:10] [PT0-on_load@BlhClient/ERROR]: Error calling on_load in plugin BlhClient
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 语言已设置为 zh_cn
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 解析器已设置为 vanilla_parser
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 加载插件中
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 插件 beep.py 已加载
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 插件 QuickBackupM.py 已加载
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 已加载: §72§r 个插件; 已加载插件总数: §72§r
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 正在启动服务端，启动参数为 "java -Xms1G -Xmx2G -jar fabric-server-launch.jar nogui"
+[MCDR] [2020-05-23 15:36:32] [MainThread/INFO]: 服务端正在以 PID 15464 运行中
+[MCDR] [2020-05-23 15:36:33] [CheckUpdate/INFO]: MCDR 已为最新版
+[MCDR] [2020-05-23 15:39:25] [InfoReactor/INFO]: 插件 QuickBackupM.py 已加载
+[MCDR] [2020-05-23 15:41:21] [InfoReactor/INFO]: 加载插件中
+[MCDR] [2020-05-23 15:41:21] [InfoReactor/INFO]: 插件 deathpos.py 已加载
+[MCDR] [2020-05-23 15:41:21] [InfoReactor/INFO]: 插件 Here.py 已加载
+[MCDR] [2020-05-23 15:41:21] [InfoReactor/INFO]: 插件 PlayerInfoAPI.py 已加载
+[MCDR] [2020-05-23 15:41:21] [InfoReactor/INFO]: 语言已设置为 zh_cn
+[MCDR] [2020-05-23 15:41:21] [InfoReactor/INFO]: 解析器已设置为 vanilla_parser
+[MCDR] [2020-05-23 15:41:21] [InfoReactor/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
+[MCDR] [2020-05-23 15:44:46] [InfoReactor/INFO]: 加载插件中
+[MCDR] [2020-05-23 15:44:46] [InfoReactor/INFO]: 插件 daycount.py 已加载
+[MCDR] [2020-05-23 15:44:46] [InfoReactor/INFO]: 插件 seen.py 已加载
+[MCDR] [2020-05-23 15:44:46] [InfoReactor/INFO]: 语言已设置为 zh_cn
+[MCDR] [2020-05-23 15:44:46] [InfoReactor/INFO]: 解析器已设置为 vanilla_parser
+[MCDR] [2020-05-23 15:44:46] [InfoReactor/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
+[MCDR] [2020-05-23 15:46:57] [InfoReactor/INFO]: 加载插件中
+[MCDR] [2020-05-23 15:46:57] [InfoReactor/INFO]: 插件 joinMOTD.py 已加载
+[MCDR] [2020-05-23 15:46:57] [InfoReactor/INFO]: 语言已设置为 zh_cn
+[MCDR] [2020-05-23 15:46:57] [InfoReactor/INFO]: 解析器已设置为 vanilla_parser
+[MCDR] [2020-05-23 15:46:57] [InfoReactor/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
+[MCDR] [2020-05-23 15:47:13] [PT3-on_player_joined@joinMOTD/ERROR]: Error calling on_player_joined in plugin joinMOTD
 Traceback (most recent call last):
   File "D:\MCD\utils\plugin_thread.py", line 36, in run
     task_data.func(*task_data.args)
-  File "plugins\BlhClient.py", line 517, in on_load
-    if old.ud == True:
-AttributeError: 'NoneType' object has no attribute 'ud'
-[MCDR] [2020-05-23 15:31:11] [CheckUpdate/INFO]: MCDR 已为最新版
-[MCDR] [2020-05-23 15:33:13] [MainThread/INFO]: 等待服务端进程停止
-[MCDR] [2020-05-23 15:33:13] [MainThread/INFO]: 服务端进程返回代码: 0
-[MCDR] [2020-05-23 15:33:13] [MainThread/INFO]: 服务端自行关闭
-[MCDR] [2020-05-23 15:33:13] [MainThread/INFO]: 服务端已关闭
-[MCDR] [2020-05-23 15:33:13] [PT0-on_server_stop@BlhClient/ERROR]: Error calling on_server_stop in plugin BlhClient
-Traceback (most recent call last):
-  File "D:\MCD\utils\plugin_thread.py", line 36, in run
-    task_data.func(*task_data.args)
-TypeError: on_server_stop() takes 1 positional argument but 2 were given
-[MCDR] [2020-05-23 15:33:13] [MainThread/INFO]: bye
+  File "plugins\joinMOTD.py", line 61, in on_player_joined
+    onPlayerJoin(server, playername)
+  File "plugins\joinMOTD.py", line 26, in onPlayerJoin
+    with open(ConfigFilePath, 'r') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'config/joinMOTD.json'
+[MCDR] [2020-05-23 15:49:10] [InfoReactor/INFO]: 加载插件中
+[MCDR] [2020-05-23 15:49:10] [InfoReactor/INFO]: 插件 MCDRClear.py 已加载
+[MCDR] [2020-05-23 15:49:10] [InfoReactor/INFO]: 插件 joinMOTD.py 已卸载
+[MCDR] [2020-05-23 15:49:10] [PT0-on_load@MCDRClear/INFO]: [扫地] 自动清理掉落物已启动
+[MCDR] [2020-05-23 15:49:10] [InfoReactor/INFO]: 语言已设置为 zh_cn
+[MCDR] [2020-05-23 15:49:10] [InfoReactor/INFO]: 解析器已设置为 vanilla_parser
+[MCDR] [2020-05-23 15:49:10] [InfoReactor/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
+[MCDR] [2020-05-23 15:52:19] [InfoReactor/INFO]: 加载插件中
+[MCDR] [2020-05-23 15:52:19] [InfoReactor/INFO]: 插件 MagicChat.py 已加载
+[MCDR] [2020-05-23 15:52:19] [InfoReactor/INFO]: 语言已设置为 zh_cn
+[MCDR] [2020-05-23 15:52:19] [InfoReactor/INFO]: 解析器已设置为 vanilla_parser
+[MCDR] [2020-05-23 15:52:19] [InfoReactor/INFO]: 编码 / 解码方式已设置为 utf-8 / cp936
+[MCDR] [2020-05-23 15:52:20] [PT1-on_load@MagicChat/INFO]: 已下载物品名称映射文件
+[MCDR] [2020-05-23 15:53:23] [MainThread/INFO]: 等待服务端进程停止
+[MCDR] [2020-05-23 15:53:23] [MainThread/INFO]: 服务端进程返回代码: 0
+[MCDR] [2020-05-23 15:53:23] [MainThread/INFO]: 服务端自行关闭
+[MCDR] [2020-05-23 15:53:23] [MainThread/INFO]: 服务端已关闭
+[MCDR] [2020-05-23 15:53:30] [InfoReactor/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
+[MCDR] [2020-05-23 15:53:31] [InfoReactor/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
+[MCDR] [2020-05-23 15:53:33] [InfoReactor/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
+[MCDR] [2020-05-23 15:53:34] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:36] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:36] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:36] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:37] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:37] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:37] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:37] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:37] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:38] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:38] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:38] [Console/WARNING]: 服务端不能在关闭时再次关闭
+[MCDR] [2020-05-23 15:53:38] [Console/WARNING]: 服务端不能在关闭时再次关闭
