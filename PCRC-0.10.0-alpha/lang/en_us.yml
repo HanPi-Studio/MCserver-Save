@@ -1,0 +1,77 @@
+OnGameJoin: |
+    o/ start recording!
+OnDisconnect: |
+    o/ bye!
+RecordingContinue: |
+    Someone is nearby, continue recording now
+RecordingPause: |
+    Everyone left, pause recording now, go afk
+OnCreatingMCPRFile: |
+    Creating recording file
+OnCreatedMCPRFile: |
+    Recording file "{0}" created
+OnUploadingMCPRFile: |
+    Uploading recording file
+OnUploadedMCPRFile: |
+    "{0}" url = {1}
+OnPCRCStopping: |
+    PCRC stopping
+OnReachFileSizeLimit: |
+    File size limit {0}MB reached! Restarting PCRC
+OnReachTimeLimit: |
+    Recording time limit {0} reached! Restarting PCRC
+UrlNotFound: |
+    No url found
+PrintUrls: |
+    There are {0} uploaded file urls:
+IllegalOptionName: |
+    You cannot change option "{0}"!
+    Use "{1} set" to see settable options
+OnOptionSet: |
+    Setting <{0}> to <{1}>
+CommandStatusResult: |
+    Running: {0}; Recording: {1}
+    Time recorded/passed: {2}/{3}
+    Packet Recorded: {4}
+    Buffer/File size: {5}MB/{6}MB
+    File name: {7}
+CommandSpectateResult: |
+    Spectating to {0}(uuid = {1})
+CommandPositionResult: |
+    I'm at {0}
+CommandPositionResultUnknown: |
+    Idk where am I qwq
+CommandSetListTitle: |
+    Settable options:
+MarkerNotFound: |
+    No marker found
+CommandMarkerListTitle: |
+    Marker list:
+OnMarkerAdded: |
+    Marker at {0} added
+OnMarkerDeleted: |
+    Marker at {0} deleted
+OnFileNameSet:
+    File name is set to "{0}"
+UnknownCommand: |
+    Unknown command! Type "{0}" for help
+WrongArguments: |
+    Wrong Arguments!
+CommandHelp: |
+    ----- Command List -----
+    {0}: show help
+    {0} status: show status
+    {0} here: emit a "!!here" command
+    {0} pos: show position, might not be 100% accurate
+    {0} spec: spectator teleport to the player
+    {0} stop: stop PCRC
+    {0} restart: restart PCRC
+    {0} url: print all urls of recorded files
+    {0} set: print all settable option
+    {0} set <option> <value>: set the value of <option> to <value> which won't write to config file
+    {0} marker: print all markers
+    {0} marker add [<name>]: add a marker, and name it as <name> (optional)
+    {0} marker del <index>: delete the marker at index <index>
+    {0} name <filename>: set recording file name to <filename>
+PermissionDenied: |
+    Permission denied
