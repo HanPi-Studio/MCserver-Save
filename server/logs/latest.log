@@ -1,42 +1,60 @@
-[14:38:16] [main/INFO]: Loading for game Minecraft 1.15.2
-[14:38:17] [main/INFO]: [FabricLoader] Loading 3 mods: minecraft@1.15.2, fabricloader@0.8.3+build.196, carpet@1.3.23
-[14:38:17] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/MCD/server/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[14:38:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:38:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:38:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:38:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[14:38:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[14:38:21] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[14:38:21] [Server thread/INFO]: Loading properties
-[14:38:21] [Server thread/INFO]: Default game type: SURVIVAL
-[14:38:21] [Server thread/INFO]: Generating keypair
-[14:38:21] [Server thread/INFO]: Starting Minecraft server on *:25565
-[14:38:21] [Server thread/INFO]: Using default channel type
-[14:38:22] [Server thread/INFO]: Preparing level "world"
-[14:38:22] [Server thread/INFO]: Reloading ResourceManager: Default
-[14:38:23] [Server thread/INFO]: Loaded 6 recipes
-[14:38:23] [Server thread/INFO]: Loaded 825 advancements
-[14:38:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[14:38:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:38:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:38:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:38:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:38:26] [Server thread/INFO]: Preparing spawn area: 0%
-[14:38:28] [Server-Worker-4/INFO]: Preparing spawn area: 0%
-[14:38:28] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[14:38:28] [Server-Worker-3/INFO]: Preparing spawn area: 0%
-[14:38:28] [Server thread/INFO]: Time elapsed: 4021 ms
-[14:38:28] [Server thread/INFO]: Done (5.965s)! For help, type "help"
-[14:41:12] [Server thread/INFO]: Stopping the server
-[14:41:12] [Server thread/INFO]: Stopping server
-[14:41:12] [Server thread/INFO]: Saving players
-[14:41:12] [Server thread/INFO]: Saving worlds
-[14:41:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
-[14:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:41:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
-[14:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:41:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[14:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:41:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:31:13] [main/INFO]: Loading for game Minecraft 1.15.2
+[15:31:13] [main/INFO]: [FabricLoader] Loading 3 mods: minecraft@1.15.2, fabricloader@0.8.3+build.196, carpet@1.3.23
+[15:31:13] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/MCD/server/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[15:31:21] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:31:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:31:21] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:31:21] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[15:31:21] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[15:31:22] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[15:31:22] [Server thread/INFO]: Loading properties
+[15:31:22] [Server thread/INFO]: Default game type: SURVIVAL
+[15:31:22] [Server thread/INFO]: Generating keypair
+[15:31:22] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:31:22] [Server thread/INFO]: Using default channel type
+[15:31:24] [Server thread/INFO]: Preparing level "world"
+[15:31:25] [Server thread/INFO]: Reloading ResourceManager: Default
+[15:31:25] [Server thread/INFO]: Loaded 6 recipes
+[15:31:26] [Server thread/INFO]: Loaded 825 advancements
+[15:31:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:31:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:31:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:31:28] [Server thread/INFO]: Preparing spawn area: 0%
+[15:31:28] [Server thread/INFO]: Preparing spawn area: 62%
+[15:31:28] [Server thread/INFO]: Time elapsed: 1568 ms
+[15:31:28] [Server thread/INFO]: Done (3.642s)! For help, type "help"
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:28] [Server thread/INFO]: No player was found
+[15:31:36] [User Authenticator #1/INFO]: UUID of player JensonYang2020 is 15dcab51-6fed-4360-8918-cc626ee20045
+[15:31:37] [Server thread/INFO]: JensonYang2020[/127.0.0.1:7222] logged in with entity id 87 at (-182.79939307978296, 73.0, -775.6196466197237)
+[15:31:37] [Server thread/INFO]: JensonYang2020 joined the game
+[15:31:58] [Server thread/INFO]: <JensonYang2020> !!qd
+[15:32:00] [Server thread/INFO]: <JensonYang2020> !!qd make
+[15:32:02] [Server thread/INFO]: <JensonYang2020> !!help
+[15:32:30] [Server thread/INFO]: <JensonYang2020> !!qd
+[15:32:33] [Server thread/INFO]: <JensonYang2020> !!qd help
+[15:32:40] [Server thread/INFO]: <JensonYang2020> !!qd list
+[15:32:56] [Server thread/INFO]: <JensonYang2020> !!blh
+[15:33:10] [Server thread/INFO]: Stopping the server
+[15:33:10] [Server thread/INFO]: Stopping server
+[15:33:10] [Server thread/INFO]: Saving players
+[15:33:10] [Server thread/INFO]: JensonYang2020 lost connection: Server closed
+[15:33:10] [Server thread/INFO]: JensonYang2020 left the game
+[15:33:10] [Server thread/INFO]: Saving worlds
+[15:33:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[15:33:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:33:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[15:33:10] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:33:10] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[15:33:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:33:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:33:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:33:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved

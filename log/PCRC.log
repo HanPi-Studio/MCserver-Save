@@ -1,0 +1,733 @@
+[2020-05-23 15:26:42 INFO] [PCRC] Creating new PCRC recorder
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] ================ Config ================
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] -------- Base --------
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Language = en_us
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Debug mode = False
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] -------- Account and Server --------
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Online mode = False
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] User name = bo***C
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Password = ******
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Server address = localhost
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Server port = 20000
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Server name = SECRET SERVER
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Initial Version = 1.14.4
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] -------- PCRC Control --------
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] File size limit = 2048MB
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] File buffer size = 8MB
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Time recorded limit = 24h
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Auto relogin = True
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Chat spam protect = True
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] -------- PCRC Features --------
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Minimal packets mode = True
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Daytime set to = 4000
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Weather switch = False
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Record with player only = True
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Remove items = True
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Remove bats = True
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] ========================================
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] -------- Whitelist --------
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Whitelist = True
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Whitelist player(s) = ['Fallen_Breath', 'Steve']
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Login in offline mode
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] init finish
+[2020-05-23 15:26:42 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:26:44 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:26:44 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:26:44 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:26:44 INFO] [PCRC] Recorder started, success = False
+[2020-05-23 15:26:44 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:26:44 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:26:44 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:26:44 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:26:45 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:26:46 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:26:47 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:26:49 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:26:49 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:26:49 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:26:49 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:26:49 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:26:49 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:26:49 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:26:50 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:26:51 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:26:52 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:26:54 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:26:54 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:26:54 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:26:54 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:26:54 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:26:54 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:26:54 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:26:55 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:26:56 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:26:58 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:00 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:00 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:00 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:00 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:00 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:00 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:00 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:01 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:02 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:03 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:05 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:05 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:05 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:05 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:05 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:05 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:05 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:06 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:07 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:08 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:10 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:10 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:10 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:10 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:10 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:10 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:10 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:11 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:12 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:13 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:15 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:15 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:15 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:15 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:15 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:15 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:15 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:16 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:17 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:18 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:20 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:20 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:20 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:20 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:20 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:20 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:20 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:21 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:22 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:23 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:25 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:25 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:25 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:25 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:25 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:25 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:25 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:26 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:27 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:28 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:30 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:30 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:30 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:30 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:30 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:30 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:30 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:31 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:32 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:33 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:35 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:35 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:35 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:35 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:35 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:35 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:35 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:36 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:37 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:38 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:40 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:40 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:40 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:40 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:40 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:40 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:40 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:41 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:42 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:43 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:45 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:45 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:45 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:45 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:45 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:45 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:45 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:46 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:47 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:48 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:50 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:50 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:50 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:50 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:50 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:50 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:50 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:51 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:52 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:53 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:27:55 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:27:55 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:27:55 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:27:55 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:27:55 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:27:55 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:27:55 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:27:56 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:27:57 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:27:58 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:00 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:00 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:00 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:00 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:00 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:00 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:00 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:01 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:02 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:03 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:05 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:05 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:05 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:05 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:05 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:05 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:05 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:06 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:07 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:08 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:10 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:10 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:10 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:10 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:10 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:10 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:10 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:11 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:12 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:13 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:15 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:15 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:16 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:16 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:16 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:16 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:16 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:17 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:18 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:19 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:21 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:21 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:21 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:21 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:21 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:21 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:21 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:22 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:23 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:24 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:26 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:26 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:26 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:26 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:26 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:26 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:26 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:27 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:28 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:29 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:31 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:31 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:31 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:31 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:31 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:31 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:31 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:32 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:33 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:34 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:36 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:36 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:36 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:36 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:36 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:36 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:36 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:37 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:38 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:39 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:41 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:41 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:41 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:41 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:41 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:41 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:41 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:42 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:43 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:44 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:46 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:46 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:46 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:46 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:46 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:46 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:46 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:47 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:48 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:49 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:51 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:51 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:51 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:51 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:51 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:51 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:51 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:52 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:53 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:54 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:28:56 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:28:56 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:28:56 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:28:56 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:28:56 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:28:56 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:28:56 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:28:57 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:28:58 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:28:59 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:01 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:01 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:01 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:01 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:01 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:01 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:01 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:02 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:03 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:04 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:06 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:06 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:06 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:06 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:06 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:06 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:06 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:07 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:08 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:09 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:11 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:11 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:11 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:11 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:11 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:11 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:11 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:12 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:13 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:14 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:16 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:16 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:16 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:16 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:16 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:16 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:16 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:17 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:18 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:19 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:21 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:21 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:21 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:21 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:21 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:21 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:21 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:22 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:23 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:24 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:26 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:26 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:26 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:26 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:26 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:26 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:26 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:27 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:28 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:29 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:31 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:31 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:31 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:31 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:31 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:31 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:31 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:32 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:33 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:34 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:36 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:36 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:36 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:36 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:36 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:36 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:36 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:37 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:38 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:39 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:42 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:42 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:42 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:42 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:42 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:42 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:42 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:43 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:44 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:45 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:47 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:47 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:47 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:47 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:47 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:47 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:47 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:48 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:49 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:50 INFO] [PCRC] Creating new PCRC recorder
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] ================ Config ================
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] -------- Base --------
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Language = en_us
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Debug mode = False
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] -------- Account and Server --------
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Online mode = False
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] User name = bo***C
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Password = ******
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Server address = localhost
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Server port = 20000
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Server name = SECRET SERVER
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Initial Version = 1.14.4
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] -------- PCRC Control --------
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] File size limit = 2048MB
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] File buffer size = 8MB
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Time recorded limit = 24h
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Auto relogin = True
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Chat spam protect = True
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] -------- PCRC Features --------
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Minimal packets mode = True
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Daytime set to = 4000
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Weather switch = False
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Record with player only = True
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Remove items = True
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Remove bats = True
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] ========================================
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] -------- Whitelist --------
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Whitelist = True
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Whitelist player(s) = ['Fallen_Breath', 'Steve']
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Login in offline mode
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] init finish
+[2020-05-23 15:29:50 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:52 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:52 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:52 INFO] [PCRC] Recorder started, success = False
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:52 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:53 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:53 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:54 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:54 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:55 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:55 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:29:57 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:57 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:29:57 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:29:58 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:58 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:29:59 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:29:59 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:00 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:00 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:02 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:02 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:02 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:03 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:03 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:04 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:04 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:05 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:06 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:07 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:07 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:07 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:07 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:07 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:07 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:07 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:08 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:08 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:08 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:08 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:08 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:08 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:08 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:08 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:09 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:09 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:10 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:10 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:11 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:12 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:12 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:12 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:12 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:12 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:12 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:12 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:13 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:13 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:13 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:13 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:13 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:13 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:13 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:13 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:14 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:14 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:15 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:15 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:16 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:17 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:17 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:17 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:17 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:17 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:17 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:17 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:18 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:18 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:18 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:18 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:18 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:18 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:18 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:18 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:19 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:19 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:20 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:20 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:21 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:22 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:22 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:22 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:22 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:22 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:22 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:22 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:23 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:23 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:23 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:23 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:23 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:23 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:23 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:23 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:24 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:24 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:25 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:25 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:26 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:27 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:27 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:27 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:27 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:27 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:27 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:27 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:28 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:28 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:28 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:28 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:28 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:28 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:28 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:28 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:29 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:29 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:30 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:30 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:31 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:32 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:32 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:32 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:32 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:32 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:32 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:32 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:33 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:33 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:33 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:33 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:33 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:33 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:33 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:33 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:34 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:34 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:35 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:35 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:36 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:37 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:37 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:37 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:37 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:37 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:37 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:37 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:38 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:38 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:38 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:38 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:38 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:38 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:38 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:38 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:39 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:39 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:40 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:40 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:41 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:42 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:42 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:42 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:42 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:42 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:42 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:42 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:43 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:43 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:43 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:43 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:43 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:43 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:43 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:43 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:44 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:44 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:45 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:45 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:46 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:47 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:47 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:47 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:47 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:47 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:47 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:47 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:48 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:48 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:48 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:48 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:48 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:48 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:48 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:48 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:49 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:49 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:50 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:50 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:51 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:52 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:52 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:52 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:52 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:52 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:52 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:52 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:53 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:53 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:53 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:53 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:53 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:53 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:53 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:53 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:54 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:54 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:55 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:30:55 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:56 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:30:57 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:57 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:57 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:57 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:57 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:57 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:57 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:58 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:30:58 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:30:58 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:30:58 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:30:58 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:30:58 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:30:58 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:30:58 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:59 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
+[2020-05-23 15:30:59 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:31:00 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 1s
+[2020-05-23 15:31:00 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:31:01 INFO] [PCRC-Recorder] Starting PCRC
+[2020-05-23 15:31:02 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:31:02 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:31:02 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:31:02 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:31:02 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:31:02 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:31:02 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:31:03 ERROR] [PCRC-Recorder] Fail to connect to "localhost:20000"
+[2020-05-23 15:31:03 INFO] [PCRC-Recorder] Stopping PCRC, restart = True, by_user = False
+[2020-05-23 15:31:03 INFO] [PCRC-Recorder] [Thread File] Not connected to the server yet, abort creating replay recording file
+[2020-05-23 15:31:03 INFO] [PCRC-Recorder] [Thread File] File operations finished, disconnect now
+[2020-05-23 15:31:03 INFO] [PCRC-Recorder] [Thread File] PCRC stopped
+[2020-05-23 15:31:03 INFO] [PCRC-Recorder] [Thread File] ---------------------------------------
+[2020-05-23 15:31:03 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 3s
+[2020-05-23 15:31:03 INFO] [PCRC-Recorder] [Thread File] PCRC restarting in 2s
