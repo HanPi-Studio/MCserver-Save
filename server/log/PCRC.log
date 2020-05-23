@@ -1,0 +1,42 @@
+[2020-05-23 13:49:17 INFO] [PCRC] PCRC 0.10.0-alpha starting up
+[2020-05-23 13:49:17 INFO] [PCRC] PCRC is open source, u can find it here: https://github.com/Fallen-Breath/PCRC
+[2020-05-23 13:49:17 INFO] [PCRC] PCRC is still in development, it may not work well
+[2020-05-23 13:49:20 INFO] [PCRC] Waiting for recorder to stop before exit
+[2020-05-23 13:49:20 ERROR] [PCRC] Traceback (most recent call last):
+  File "PCRC\PCRC.py", line 177, in main
+AttributeError: 'NoneType' object has no attribute 'is_stopped'
+
+[2020-05-23 13:49:20 INFO] [PCRC] Exited
+[2020-05-23 13:49:33 INFO] [PCRC] PCRC 0.10.0-alpha starting up
+[2020-05-23 13:49:33 INFO] [PCRC] PCRC is open source, u can find it here: https://github.com/Fallen-Breath/PCRC
+[2020-05-23 13:49:33 INFO] [PCRC] PCRC is still in development, it may not work well
+[2020-05-23 13:49:48 ERROR] [PCRC] Please enter the command!
+[2020-05-23 13:49:52 INFO] [PCRC] Processing command "!!"
+[2020-05-23 13:49:52 ERROR] [PCRC] Command not found!
+[2020-05-23 13:49:53 INFO] [PCRC] Processing command "start"
+[2020-05-23 13:49:53 INFO] [PCRC] Creating new PCRC recorder
+[2020-05-23 13:49:53 ERROR] [PCRC] Traceback (most recent call last):
+  File "PCRC\PCRC.py", line 78, in main
+  File "PCRC\PCRC.py", line 39, in start
+  File "PCRC\utils\recorder.py", line 31, in __init__
+  File "PCRC\utils\config.py", line 66, in __init__
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+[2020-05-23 13:51:05 INFO] [PCRC] Processing command "!!start"
+[2020-05-23 13:51:05 ERROR] [PCRC] Command not found!
+[2020-05-23 13:51:08 INFO] [PCRC] Processing command "start"
+[2020-05-23 13:51:08 INFO] [PCRC] Creating new PCRC recorder
+[2020-05-23 13:51:08 ERROR] [PCRC] Traceback (most recent call last):
+  File "PCRC\PCRC.py", line 78, in main
+  File "PCRC\PCRC.py", line 39, in start
+  File "PCRC\utils\recorder.py", line 31, in __init__
+  File "PCRC\utils\config.py", line 66, in __init__
+TypeError: expected str, bytes or os.PathLike object, not NoneType
+
+[2020-05-23 13:51:10 INFO] [PCRC] Processing command "stop"
+[2020-05-23 13:51:10 WARN] [PCRC] Recorder is not running, ignore
+[2020-05-23 13:51:16 INFO] [PCRC] Processing command "say haha"
+[2020-05-23 13:51:16 ERROR] [PCRC] Traceback (most recent call last):
+  File "PCRC\PCRC.py", line 87, in main
+AttributeError: 'NoneType' object has no attribute 'chat'
+

@@ -1,3 +1,3 @@
-java -jar fabric-server-launch.jar
+pip MCDReforged.py
 pu.bat
 pause
