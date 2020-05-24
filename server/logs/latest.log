@@ -1,70 +1,42 @@
-[15:54:06] [main/INFO]: Loading for game Minecraft 1.15.2
-[15:54:06] [main/INFO]: [FabricLoader] Loading 3 mods: minecraft@1.15.2, fabricloader@0.8.3+build.196, carpet@1.3.23
-[15:54:06] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/D:/MCD/server/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
-[15:54:14] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:54:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:54:14] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:54:14] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[15:54:14] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[15:54:15] [Server thread/INFO]: Starting minecraft server version 1.15.2
-[15:54:15] [Server thread/INFO]: Loading properties
-[15:54:15] [Server thread/INFO]: Default game type: SURVIVAL
-[15:54:15] [Server thread/INFO]: Generating keypair
-[15:54:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:54:15] [Server thread/INFO]: Using default channel type
-[15:54:18] [Server thread/INFO]: Preparing level "world"
-[15:54:18] [Server thread/INFO]: Reloading ResourceManager: Default
-[15:54:18] [Server thread/INFO]: Loaded 6 recipes
-[15:54:19] [Server thread/INFO]: Loaded 825 advancements
-[15:54:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[15:54:20] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:20] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:20] [Server thread/INFO]: Preparing spawn area: 0%
-[15:54:21] [Server thread/INFO]: Time elapsed: 1451 ms
-[15:54:21] [Server thread/INFO]: Done (2.645s)! For help, type "help"
-[15:54:52] [User Authenticator #1/INFO]: UUID of player JensonYang2020 is 15dcab51-6fed-4360-8918-cc626ee20045
-[15:54:52] [Server thread/INFO]: JensonYang2020[/127.0.0.1:11181] logged in with entity id 74 at (-184.27170878845743, 73.0, -773.4659879693213)
-[15:54:52] [Server thread/INFO]: JensonYang2020 joined the game
-[15:55:06] [Server thread/INFO]: [JensonYang2020: Game is frozen]
-[15:55:07] [Server thread/INFO]: [JensonYang2020: Game runs normally]
-[15:57:14] [Server thread/INFO]: Made JensonYang2020 a server operator
-[15:57:24] [Server thread/INFO]: [JensonYang2020: Set the world spawn point to -196, 74, -776]
-[16:04:49] [Server thread/INFO]: JensonYang2020 has made the advancement [Suit Up]
-[16:04:49] [Server thread/INFO]: JensonYang2020 has made the advancement [Cover Me With Diamonds]
-[16:05:04] [Server thread/INFO]: Killed 5 entities
-[16:06:16] [Server thread/INFO]: JensonYang2020 has made the advancement [Ice Bucket Challenge]
-[16:10:26] [Server thread/INFO]: [JensonYang2020: Set own game mode to Creative Mode]
-[16:10:31] [Server thread/INFO]: [JensonYang2020: Set own game mode to Spectator Mode]
-[16:10:59] [Server thread/INFO]: [JensonYang2020: Applied effect Health Boost to JensonYang2020]
-[16:11:22] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:23] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:24] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:27] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:29] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:29] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:30] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:30] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:31] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:32] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:32] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:33] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:33] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:34] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:34] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:35] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:35] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:36] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:36] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:11:37] [Server thread/INFO]: [JensonYang2020: Applied effect Instant Health to JensonYang2020]
-[16:13:19] [Server thread/INFO]: [JensonYang2020: Removed every effect from JensonYang2020]
-[16:16:04] [Server thread/INFO]: Killed 10 entities
-[16:18:00] [Server thread/INFO]: JensonYang2020 has made the advancement [We Need to Go Deeper]
-[16:19:21] [Server thread/WARN]: JensonYang2020 moved too quickly! 13.031696033341198,14.703060989814066,8.162483730244006
-[16:19:37] [Server thread/WARN]: JensonYang2020 moved too quickly! -1.869312173109975,4.442666635513305,9.721418388952188
-[16:20:02] [Server thread/INFO]: JensonYang2020 has made the advancement [A Terrible Fortress]
-[16:20:37] [Server thread/INFO]: JensonYang2020 has made the advancement [Into Fire]
-[16:20:58] [Server thread/WARN]: JensonYang2020 moved too quickly! 8.697632931414248,5.402282628784178,2.785680584219108
-[16:21:19] [Server thread/WARN]: JensonYang2020 moved too quickly! -3.813032370800965,0.0,-9.277333667652556
-[16:24:31] [Server thread/INFO]: JensonYang2020 has made the advancement [Local Brewery]
-[16:25:45] [Server thread/INFO]: JensonYang2020 lost connection: Disconnected
-[16:25:45] [Server thread/INFO]: JensonYang2020 left the game
+[02:51:37] [main/INFO]: Loading for game Minecraft 1.15.2
+[02:51:37] [main/INFO]: [FabricLoader] Loading 3 mods: minecraft@1.15.2, fabricloader@0.8.3+build.196, carpet@1.3.23
+[02:51:37] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8 Source=file:/root/Mcserver-Save/server/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[02:51:48] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:51:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:51:48] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:51:48] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:51:48] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:51:49] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[02:51:49] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
+[02:51:49] [Server thread/INFO]: Loading properties
+[02:51:49] [Server thread/INFO]: Default game type: SURVIVAL
+[02:51:49] [Server thread/INFO]: Generating keypair
+[02:51:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:51:49] [Server thread/INFO]: Using epoll channel type
+[02:51:50] [Server thread/INFO]: Preparing level "world"
+[02:51:50] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:52:14] [Server thread/INFO]: Loaded 6 recipes
+[02:52:26] [Server thread/INFO]: Loaded 825 advancements
+[02:52:30] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:52:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:32] [Server thread/INFO]: Preparing spawn area: 0%
+[02:52:32] [Server-Worker-1/INFO]: Preparing spawn area: 0%
+[02:52:33] [Server thread/INFO]: Preparing spawn area: 28%
+[02:52:33] [Server thread/INFO]: Time elapsed: 3785 ms
+[02:52:33] [Server thread/INFO]: Done (43.542s)! For help, type "help"
+[02:52:46] [Server thread/INFO]: Stopping the server
+[02:52:46] [Server thread/INFO]: Stopping server
+[02:52:46] [Server thread/INFO]: Saving players
+[02:52:46] [Server thread/INFO]: Saving worlds
+[02:52:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[02:52:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:52:46] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[02:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:52:49] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[02:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:52:49] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved

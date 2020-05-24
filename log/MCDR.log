@@ -1,37 +1,38 @@
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 语言已设置为 zh_cn
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 解析器已设置为 vanilla_parser
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 编码 / 解码方式已设置为 utf-8 / UTF-8
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 加载插件中
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 daycount.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 MagicChat.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 deathpos.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 PlayerInfoAPI.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 MCDRClear.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 seen.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 QuickBackupM.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 Here.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 插件 beep.py 已加载
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 已加载: §79§r 个插件; 已加载插件总数: §79§r
-[MCDR] [2020-05-23 13:49:18] [PT0-on_load@MCDRClear/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
-[MCDR] [2020-05-23 13:49:18] [PT0-on_load@MCDRClear/INFO]: [扫地] 自动清理掉落物已启动
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 正在启动服务端，启动参数为 "java -Xms1G -Xmx1G -jar fabric-server-launch.jar nogui"
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 服务端正在以 PID 28327 运行中
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 服务端进程返回代码: 1
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 服务端自行关闭
-[MCDR] [2020-05-23 13:49:18] [MainThread/INFO]: 服务端已关闭
-[MCDR] [2020-05-23 13:49:18] [CheckUpdate/INFO]: MCDR 已为最新版
-[MCDR] [2020-05-23 13:49:38] [MainThread/ERROR]: 关闭 MCDR 时出错，忽略并继续退出
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 语言已设置为 zh_cn
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 解析器已设置为 vanilla_parser
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 编码 / 解码方式已设置为 utf-8 / UTF-8
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 加载插件中
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 Here.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 seen.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 MCDRClear.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 QuickBackupM.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 beep.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 PlayerInfoAPI.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 MagicChat.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 daycount.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 插件 deathpos.py 已加载
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 已加载: §79§r 个插件; 已加载插件总数: §79§r
+[MCDR] [2020-05-24 02:51:33] [PT3-on_load@MCDRClear/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
+[MCDR] [2020-05-24 02:51:33] [PT3-on_load@MCDRClear/INFO]: [扫地] 自动清理掉落物已启动
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 正在启动服务端，启动参数为 "java -jar fabric-server-launch.jar nogui"
+[MCDR] [2020-05-24 02:51:33] [MainThread/INFO]: 服务端正在以 PID 11210 运行中
+[MCDR] [2020-05-24 02:51:34] [CheckUpdate/INFO]: MCDR 已为最新版
+[MCDR] [2020-05-24 02:52:49] [MainThread/INFO]: 服务端进程返回代码: 0
+[MCDR] [2020-05-24 02:52:49] [MainThread/INFO]: 服务端自行关闭
+[MCDR] [2020-05-24 02:52:49] [MainThread/INFO]: 服务端已关闭
+[MCDR] [2020-05-24 02:52:56] [InfoReactor/WARNING]: 服务端已关闭，不能向其标准输入流输入指令
+[MCDR] [2020-05-24 02:52:58] [MainThread/ERROR]: 关闭 MCDR 时出错，忽略并继续退出
 Traceback (most recent call last):
-  File "/root/MCserver-Save/utils/server.py", line 279, in on_mcdr_stop
+  File "/root/Mcserver-Save/utils/server.py", line 279, in on_mcdr_stop
     self.plugin_manager.call('on_mcdr_stop', (self.server_interface,), wait=True)
-  File "/root/MCserver-Save/utils/plugin_manager.py", line 210, in call
+  File "/root/Mcserver-Save/utils/plugin_manager.py", line 210, in call
     self.thread_pool.join()
-  File "/root/MCserver-Save/utils/plugin_thread.py", line 85, in join
+  File "/root/Mcserver-Save/utils/plugin_thread.py", line 85, in join
     thread.join(timeout)
-  File "/root/MCserver-Save/utils/plugin_thread.py", line 52, in join
+  File "/root/Mcserver-Save/utils/plugin_thread.py", line 52, in join
     super().join(timeout)
-  File "/usr/lib64/python3.6/threading.py", line 1056, in join
+  File "/usr/lib/python3.8/threading.py", line 1011, in join
     self._wait_for_tstate_lock()
-  File "/usr/lib64/python3.6/threading.py", line 1072, in _wait_for_tstate_lock
+  File "/usr/lib/python3.8/threading.py", line 1027, in _wait_for_tstate_lock
     elif lock.acquire(block, timeout):
 KeyboardInterrupt
